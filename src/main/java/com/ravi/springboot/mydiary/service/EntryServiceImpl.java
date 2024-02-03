@@ -1,12 +1,12 @@
-package com.twg.springboot.mydiary.service;
+package com.ravi.springboot.mydiary.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.twg.springboot.mydiary.entity.Entry;
-import com.twg.springboot.mydiary.repository.EntryRepository;
+import com.ravi.springboot.mydiary.entity.Entry;
+import com.ravi.springboot.mydiary.repository.EntryRepository;
 
 @Service
 public class EntryServiceImpl implements EntryService {

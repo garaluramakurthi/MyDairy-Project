@@ -8,8 +8,8 @@
 		<version>3.0.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.twg</groupId>
-	<artifactId>mydiary</artifactId>
+	<groupId>com.ravi</groupId>
+	<artifactId>mydiaryproject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>mydiary</name>

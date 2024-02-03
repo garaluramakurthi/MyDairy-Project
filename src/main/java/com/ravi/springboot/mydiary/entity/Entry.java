@@ -1,4 +1,4 @@
-package com.twg.springboot.mydiary.entity;
+package com.ravi.springboot.mydiary.entity;
 
 import java.util.Date;
 

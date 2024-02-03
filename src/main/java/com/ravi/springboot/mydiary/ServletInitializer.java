@@ -1,6 +1,7 @@
-package com.twg.springboot.mydiary;
+package com.ravi.springboot.mydiary;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
+
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 public class ServletInitializer extends SpringBootServletInitializer {

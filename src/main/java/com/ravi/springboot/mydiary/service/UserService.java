@@ -1,8 +1,8 @@
-package com.twg.springboot.mydiary.service;
+package com.ravi.springboot.mydiary.service;
 
 import java.util.List;
 
-import com.twg.springboot.mydiary.entity.User;
+import com.ravi.springboot.mydiary.entity.User;
 
 public interface UserService {
 	

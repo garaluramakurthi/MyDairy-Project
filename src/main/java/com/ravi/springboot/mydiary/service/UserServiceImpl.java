@@ -1,12 +1,13 @@
-package com.twg.springboot.mydiary.service;
+package com.ravi.springboot.mydiary.service;
 
 import java.util.List;
+
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.twg.springboot.mydiary.entity.User;
-import com.twg.springboot.mydiary.repository.UserRepository;
+import com.ravi.springboot.mydiary.entity.User;
+import com.ravi.springboot.mydiary.repository.UserRepository;
 
 @Service
 public class UserServiceImpl implements UserService {

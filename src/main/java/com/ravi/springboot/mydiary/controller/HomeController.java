@@ -1,4 +1,4 @@
-package com.twg.springboot.mydiary.controller;
+package com.ravi.springboot.mydiary.controller;
 
 import java.util.List;
 
@@ -10,10 +10,10 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.twg.springboot.mydiary.entity.Entry;
-import com.twg.springboot.mydiary.entity.User;
-import com.twg.springboot.mydiary.service.EntryService;
-import com.twg.springboot.mydiary.service.UserService;
+import com.ravi.springboot.mydiary.entity.Entry;
+import com.ravi.springboot.mydiary.entity.User;
+import com.ravi.springboot.mydiary.service.EntryService;
+import com.ravi.springboot.mydiary.service.UserService;
 
 import jakarta.servlet.http.HttpSession;
 

@@ -1,6 +1,7 @@
-package com.twg.springboot.mydiary;
+package com.ravi.springboot.mydiary;
 
 import org.springframework.boot.SpringApplication;
+
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication

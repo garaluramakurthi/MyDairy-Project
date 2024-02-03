@@ -1,6 +1,7 @@
-package com.twg.springboot.mydiary.entity;
+package com.ravi.springboot.mydiary.entity;
 
 import jakarta.persistence.Entity;
+
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;

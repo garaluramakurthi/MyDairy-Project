@@ -1,11 +1,13 @@
-package com.twg.springboot.mydiary.repository;
+package com.ravi.springboot.mydiary.repository;
 
 import java.util.List;
+
+
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
-import com.twg.springboot.mydiary.entity.Entry;
+import com.ravi.springboot.mydiary.entity.Entry;
 
 public interface EntryRepository extends JpaRepository<Entry, Long> {
 

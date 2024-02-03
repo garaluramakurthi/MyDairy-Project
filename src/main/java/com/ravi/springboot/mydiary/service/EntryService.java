@@ -1,8 +1,9 @@
-package com.twg.springboot.mydiary.service;
+package com.ravi.springboot.mydiary.service;
 
 import java.util.List;
 
-import com.twg.springboot.mydiary.entity.Entry;
+
+import com.ravi.springboot.mydiary.entity.Entry;
 
 public interface EntryService {
 
